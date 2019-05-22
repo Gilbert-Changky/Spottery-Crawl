@@ -1,0 +1,204 @@
+        <tbody>
+
+            <tr><td colspan="2"><a href="/team/243/real-madrid/fifa18_239/" title="Real Madrid"><img src="/static/FIFA18/images/crest/50/light/243.png" alt="Real Madrid" title="Real Madrid" class="team small" /></a></td><td data-title="Name"><a href="/team/243/real-madrid/fifa18_239/" title="Real Madrid">Real Madrid</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r2">86</span></td><td data-title="MID"><span class="label rating r2">86</span></td><td data-title="DEF"><span class="label rating r2">86</span></td><td data-title="OVR"><span class="label rating r2">86</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/241/fc-barcelona/fifa18_239/" title="FC Barcelona"><img src="/static/FIFA18/images/crest/50/light/241.png" alt="FC Barcelona" title="FC Barcelona" class="team small" /></a></td><td data-title="Name"><a href="/team/241/fc-barcelona/fifa18_239/" title="FC Barcelona">FC Barcelona</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r2">89</span></td><td data-title="MID"><span class="label rating r2">85</span></td><td data-title="DEF"><span class="label rating r2">84</span></td><td data-title="OVR"><span class="label rating r2">85</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/240/atl%C3%A9tico-madrid/fifa18_239/" title="Atlético Madrid"><img src="/static/FIFA18/images/crest/50/light/240.png" alt="Atlético Madrid" title="Atlético Madrid" class="team small" /></a></td><td data-title="Name"><a href="/team/240/atl%C3%A9tico-madrid/fifa18_239/" title="Atlético Madrid">Atlético Madrid</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r2">85</span></td><td data-title="MID"><span class="label rating r2">82</span></td><td data-title="DEF"><span class="label rating r2">83</span></td><td data-title="OVR"><span class="label rating r2">83</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/461/valencia-cf/fifa18_239/" title="Valencia CF"><img src="/static/FIFA18/images/crest/50/light/461.png" alt="Valencia CF" title="Valencia CF" class="team small" /></a></td><td data-title="Name"><a href="/team/461/valencia-cf/fifa18_239/" title="Valencia CF">Valencia CF</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r2">80</span></td><td data-title="MID"><span class="label rating r2">80</span></td><td data-title="DEF"><span class="label rating r2">80</span></td><td data-title="OVR"><span class="label rating r2">80</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-half-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/448/athletic-bilbao/fifa18_239/" title="Athletic Bilbao"><img src="/static/FIFA18/images/crest/50/light/448.png" alt="Athletic Bilbao" title="Athletic Bilbao" class="team small" /></a></td><td data-title="Name"><a href="/team/448/athletic-bilbao/fifa18_239/" title="Athletic Bilbao">Athletic Bilbao</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r2">81</span></td><td data-title="MID"><span class="label rating r3">79</span></td><td data-title="DEF"><span class="label rating r3">78</span></td><td data-title="OVR"><span class="label rating r3">79</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-half-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/481/sevilla-fc/fifa18_239/" title="Sevilla FC"><img src="/static/FIFA18/images/crest/50/light/481.png" alt="Sevilla FC" title="Sevilla FC" class="team small" /></a></td><td data-title="Name"><a href="/team/481/sevilla-fc/fifa18_239/" title="Sevilla FC">Sevilla FC</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r2">80</span></td><td data-title="MID"><span class="label rating r2">80</span></td><td data-title="DEF"><span class="label rating r3">79</span></td><td data-title="OVR"><span class="label rating r3">79</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-half-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/483/villarreal-cf/fifa18_239/" title="Villarreal CF"><img src="/static/FIFA18/images/crest/50/light/483.png" alt="Villarreal CF" title="Villarreal CF" class="team small" /></a></td><td data-title="Name"><a href="/team/483/villarreal-cf/fifa18_239/" title="Villarreal CF">Villarreal CF</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">79</span></td><td data-title="MID"><span class="label rating r3">79</span></td><td data-title="DEF"><span class="label rating r2">80</span></td><td data-title="OVR"><span class="label rating r3">79</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-half-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/457/real-sociedad/fifa18_239/" title="Real Sociedad"><img src="/static/FIFA18/images/crest/50/light/457.png" alt="Real Sociedad" title="Real Sociedad" class="team small" /></a></td><td data-title="Name"><a href="/team/457/real-sociedad/fifa18_239/" title="Real Sociedad">Real Sociedad</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r2">80</span></td><td data-title="MID"><span class="label rating r3">78</span></td><td data-title="DEF"><span class="label rating r3">77</span></td><td data-title="OVR"><span class="label rating r3">78</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/449/real-betis/fifa18_239/" title="Real Betis"><img src="/static/FIFA18/images/crest/50/light/449.png" alt="Real Betis" title="Real Betis" class="team small" /></a></td><td data-title="Name"><a href="/team/449/real-betis/fifa18_239/" title="Real Betis">Real Betis</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">79</span></td><td data-title="MID"><span class="label rating r3">79</span></td><td data-title="DEF"><span class="label rating r3">76</span></td><td data-title="OVR"><span class="label rating r3">78</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/450/celta-vigo/fifa18_239/" title="Celta Vigo"><img src="/static/FIFA18/images/crest/50/light/450.png" alt="Celta Vigo" title="Celta Vigo" class="team small" /></a></td><td data-title="Name"><a href="/team/450/celta-vigo/fifa18_239/" title="Celta Vigo">Celta Vigo</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">79</span></td><td data-title="MID"><span class="label rating r3">78</span></td><td data-title="DEF"><span class="label rating r3">78</span></td><td data-title="OVR"><span class="label rating r3">78</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/452/rcd-espanyol/fifa18_239/" title="RCD Espanyol"><img src="/static/FIFA18/images/crest/50/light/452.png" alt="RCD Espanyol" title="RCD Espanyol" class="team small" /></a></td><td data-title="Name"><a href="/team/452/rcd-espanyol/fifa18_239/" title="RCD Espanyol">RCD Espanyol</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">79</span></td><td data-title="MID"><span class="label rating r3">78</span></td><td data-title="DEF"><span class="label rating r3">76</span></td><td data-title="OVR"><span class="label rating r3">78</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/242/rc-deportivo/fifa18_239/" title="RC Deportivo"><img src="/static/FIFA18/images/crest/50/light/242.png" alt="RC Deportivo" title="RC Deportivo" class="team small" /></a></td><td data-title="Name"><a href="/team/242/rc-deportivo/fifa18_239/" title="RC Deportivo">RC Deportivo</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">79</span></td><td data-title="MID"><span class="label rating r3">77</span></td><td data-title="DEF"><span class="label rating r3">77</span></td><td data-title="OVR"><span class="label rating r3">77</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/467/sd-eibar/fifa18_239/" title="SD Eibar"><img src="/static/FIFA18/images/crest/50/light/467.png" alt="SD Eibar" title="SD Eibar" class="team small" /></a></td><td data-title="Name"><a href="/team/467/sd-eibar/fifa18_239/" title="SD Eibar">SD Eibar</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">77</span></td><td data-title="MID"><span class="label rating r3">78</span></td><td data-title="DEF"><span class="label rating r3">75</span></td><td data-title="OVR"><span class="label rating r3">77</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/110062/girona-cf/fifa18_239/" title="Girona CF"><img src="/static/FIFA18/images/crest/50/light/110062.png" alt="Girona CF" title="Girona CF" class="team small" /></a></td><td data-title="Name"><a href="/team/110062/girona-cf/fifa18_239/" title="Girona CF">Girona CF</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">79</span></td><td data-title="MID"><span class="label rating r3">76</span></td><td data-title="DEF"><span class="label rating r3">75</span></td><td data-title="OVR"><span class="label rating r3">75</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/463/deport-alav%C3%A9s/fifa18_239/" title="Deport. Alavés"><img src="/static/FIFA18/images/crest/50/light/463.png" alt="Deport. Alavés" title="Deport. Alavés" class="team small" /></a></td><td data-title="Name"><a href="/team/463/deport-alav%C3%A9s/fifa18_239/" title="Deport. Alavés">Deport. Alavés</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">77</span></td><td data-title="MID"><span class="label rating r3">75</span></td><td data-title="DEF"><span class="label rating r3">74</span></td><td data-title="OVR"><span class="label rating r3">75</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/472/ud-las-palmas/fifa18_239/" title="UD Las Palmas"><img src="/static/FIFA18/images/crest/50/light/472.png" alt="UD Las Palmas" title="UD Las Palmas" class="team small" /></a></td><td data-title="Name"><a href="/team/472/ud-las-palmas/fifa18_239/" title="UD Las Palmas">UD Las Palmas</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">77</span></td><td data-title="MID"><span class="label rating r3">74</span></td><td data-title="DEF"><span class="label rating r3">75</span></td><td data-title="OVR"><span class="label rating r3">75</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/1853/levante-ud/fifa18_239/" title="Levante UD"><img src="/static/FIFA18/images/crest/50/light/1853.png" alt="Levante UD" title="Levante UD" class="team small" /></a></td><td data-title="Name"><a href="/team/1853/levante-ud/fifa18_239/" title="Levante UD">Levante UD</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">75</span></td><td data-title="MID"><span class="label rating r3">76</span></td><td data-title="DEF"><span class="label rating r3">75</span></td><td data-title="OVR"><span class="label rating r3">75</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/573/m%C3%A1laga-cf/fifa18_239/" title="Málaga CF"><img src="/static/FIFA18/images/crest/50/light/573.png" alt="Málaga CF" title="Málaga CF" class="team small" /></a></td><td data-title="Name"><a href="/team/573/m%C3%A1laga-cf/fifa18_239/" title="Málaga CF">Málaga CF</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">75</span></td><td data-title="MID"><span class="label rating r3">75</span></td><td data-title="DEF"><span class="label rating r3">75</span></td><td data-title="OVR"><span class="label rating r3">75</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/100888/cd-legan%C3%A9s/fifa18_239/" title="CD Leganés"><img src="/static/FIFA18/images/crest/50/light/100888.png" alt="CD Leganés" title="CD Leganés" class="team small" /></a></td><td data-title="Name"><a href="/team/100888/cd-legan%C3%A9s/fifa18_239/" title="CD Leganés">CD Leganés</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">74</span></td><td data-title="MID"><span class="label rating r3">75</span></td><td data-title="DEF"><span class="label rating r3">74</span></td><td data-title="OVR"><span class="label rating r3">75</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+            <tr><td colspan="2"><a href="/team/1860/getafe-cf/fifa18_239/" title="Getafe CF"><img src="/static/FIFA18/images/crest/50/light/1860.png" alt="Getafe CF" title="Getafe CF" class="team small" /></a></td><td data-title="Name"><a href="/team/1860/getafe-cf/fifa18_239/" title="Getafe CF">Getafe CF</a></td><td data-title="League"><a href="/teams/fifa18_239/?league=53" title="Liga BBVA">Liga BBVA</a></td><td data-title="ATT"><span class="label rating r3">75</span></td><td data-title="MID"><span class="label rating r3">74</span></td><td data-title="DEF"><span class="label rating r3">75</span></td><td data-title="OVR"><span class="label rating r3">74</span></td><td data-title="Team Rating"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-half-o fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></td></tr>
+
+
+
+
+
+
+
+
+
+
+        </tbody>
