@@ -3,3 +3,5 @@ This is crawl program of spottery information: http://info.sporttery.cn/football
 
 Prediction of match between FC Barcelona and Celta Vigo needs related data including past records of two teams, Home and Away records of each team in past number of matches and so forth, and for each record, it needs to show the Home/Away, goal difference, victory/tie/defeat.
 
+Data is outputed as format of excel containing Name of Away/Home team, victory rate, goal difference of recent matches, goal difference of history matches.
+
